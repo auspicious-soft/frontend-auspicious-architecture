@@ -1,4 +1,4 @@
-# 🏗️ Frontend Architecture - Sample Code Block - Black Therapy Network
+# 🏗️ Auspicious Soft | Frontend Architecture - Sample Code Block - Black Therapy Network
 
 ## 🌟 Tech Stack Overview
 
