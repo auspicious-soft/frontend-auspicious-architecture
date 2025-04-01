@@ -1,4 +1,4 @@
-# 🏗️ Frontend Architecture - Black Therapy Network
+# 🏗️ Frontend Architecture - Sample Code Block - Black Therapy Network
 
 ## 🌟 Tech Stack Overview
 
@@ -81,7 +81,7 @@
 src/
 ├── 🔐 auth/                  # Authentication configuration
 ├── 🎯 actions/               # Server actions
-├── 📱 app/                   # Next.js app router
+├── 📱 app/                   # Next.js app router (Not shared as per privacy)
 │   ├── 🌐 (website)/        # Public routes
 │   ├── 👑 admin/            # Admin dashboard
 │   ├── 👤 customer/         # Client portal
